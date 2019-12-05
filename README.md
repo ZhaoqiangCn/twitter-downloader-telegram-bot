@@ -8,6 +8,7 @@ Clone repository and:
 `npm install`  
 Create .env file to save the Environment variable
 
-Further help
-visit mohamad or send e-mail: deylami.developer@gmail.com
+## Further help
+visit [mohamad](http://mohamad.js.org) or send e-mail: [deylami.developer@gmail.com](mailto:deylami.developer@gmail.com)
+
 
